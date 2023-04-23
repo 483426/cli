@@ -1,4 +1,8 @@
----
+---to só pelo sexo quem vai?
+
+Vamos ou estão com medo
+
+
 title: npm-init
 section: 1
 description: Create a package.json file
@@ -65,7 +69,8 @@ Create a new `esm`-compatible package using
 ```bash
 $ mkdir my-esm-lib && cd my-esm-lib
 $ npm init esm --yes
-```
+```vamos transar
+
 
 Generate a plain old package.json using legacy init:
 
